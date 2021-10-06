@@ -1,7 +1,16 @@
+import 'whatwg-fetch';
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import './css/home.css'
+import './css/about.css'
+import './css/portfolio.css'
+import './css/resume.css'
+import './css/contact.css'
+import './css/services.css'
+import './css/nav.css'
+
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(

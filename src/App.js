@@ -10,6 +10,7 @@ import ProjectPage from './pages/ProjectPage';
 import Navbar from './NavBar';
 import NavBarItem from './NavBarIItem';
 import NotFoundPage from './pages/NotFoundPage'
+import ToDoPage from './pages/ToDoPage';
 import ResumePage from './pages/ResumePage';
 import PortfolioPage from './pages/PortfolioPage';
 import ContactPage from "./pages/ContactPage";
@@ -28,14 +29,15 @@ function App() {
           </NavBarItem>
         </Navbar>
         <Switch>
-              <Route path="/react-gitpage/" component={HomePage} exact />
+              <Route path="/react-gitpage" component={HomePage} exact />
               <Route path="/react-gitpage/about" component={AboutPage} exact/>
-              <Route path="/react-gitpage/resume" component={ResumePage} exact/>
-              <Route path="/react-gitpage/portfolio" component={PortfolioPage} exact/>
-              <Route path="/react-gitpage/contact" component={ContactPage} exact/>
-              <Route path="/react-gitpage/services" component={ServicesPage} />
-              <Route path="/react-gitpage/projectlist" component={ProjectListPage} exact />
-              <Route path="/react-gitpage/project/:name" component={ProjectPage} />
+              <Route path="/resume" component={ResumePage} exact/>
+              <Route path="/portfolio" component={PortfolioPage} exact/>
+              <Route path="/contact" component={ContactPage} exact/>
+              <Route path="/todo" component={ToDoPage} />
+              <Route path="/services" component={ServicesPage} />
+              <Route path="/projectlist" component={ProjectListPage} exact />
+              <Route path="/project/:name" component={ProjectPage} />
               <Route component={NotFoundPage} />
         </Switch>
   </Router>
