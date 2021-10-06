@@ -29,7 +29,7 @@ function App() {
           </NavBarItem>
         </Navbar>
         <Switch>
-              <Route path="/" component={HomePage} exact />
+              <Route path="/react-gitpage/" component={HomePage} exact />
               <Route path="/about" component={AboutPage} exact/>
               <Route path="/resume" component={ResumePage} exact/>
               <Route path="/portfolio" component={PortfolioPage} exact/>
