@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-gitpage/static/css/main.8b6845e0.chunk.css",
-    "main.js": "/react-gitpage/static/js/main.34fa3c7c.chunk.js",
-    "main.js.map": "/react-gitpage/static/js/main.34fa3c7c.chunk.js.map",
-    "runtime-main.js": "/react-gitpage/static/js/runtime-main.22ecba61.js",
-    "runtime-main.js.map": "/react-gitpage/static/js/runtime-main.22ecba61.js.map",
-    "static/js/2.669b5c10.chunk.js": "/react-gitpage/static/js/2.669b5c10.chunk.js",
-    "static/js/2.669b5c10.chunk.js.map": "/react-gitpage/static/js/2.669b5c10.chunk.js.map",
-    "static/js/3.03fa6275.chunk.js": "/react-gitpage/static/js/3.03fa6275.chunk.js",
-    "static/js/3.03fa6275.chunk.js.map": "/react-gitpage/static/js/3.03fa6275.chunk.js.map",
+    "main.css": "/react-gitpage/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/react-gitpage/static/js/main.3c82fbaf.chunk.js",
+    "main.js.map": "/react-gitpage/static/js/main.3c82fbaf.chunk.js.map",
+    "runtime-main.js": "/react-gitpage/static/js/runtime-main.d9eb2454.js",
+    "runtime-main.js.map": "/react-gitpage/static/js/runtime-main.d9eb2454.js.map",
+    "static/js/2.493aeece.chunk.js": "/react-gitpage/static/js/2.493aeece.chunk.js",
+    "static/js/2.493aeece.chunk.js.map": "/react-gitpage/static/js/2.493aeece.chunk.js.map",
+    "static/js/3.2b6b31b4.chunk.js": "/react-gitpage/static/js/3.2b6b31b4.chunk.js",
+    "static/js/3.2b6b31b4.chunk.js.map": "/react-gitpage/static/js/3.2b6b31b4.chunk.js.map",
     "index.html": "/react-gitpage/index.html",
-    "static/css/main.8b6845e0.chunk.css.map": "/react-gitpage/static/css/main.8b6845e0.chunk.css.map",
-    "static/js/2.669b5c10.chunk.js.LICENSE.txt": "/react-gitpage/static/js/2.669b5c10.chunk.js.LICENSE.txt",
+    "static/css/main.6dea0f05.chunk.css.map": "/react-gitpage/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.493aeece.chunk.js.LICENSE.txt": "/react-gitpage/static/js/2.493aeece.chunk.js.LICENSE.txt",
     "static/media/beetle.6a5d3c63.jpg": "/react-gitpage/static/media/beetle.6a5d3c63.jpg",
     "static/media/chevron-left.c80cdd8e.svg": "/react-gitpage/static/media/chevron-left.c80cdd8e.svg",
     "static/media/clouds.3d50b1a0.jpg": "/react-gitpage/static/media/clouds.3d50b1a0.jpg",
@@ -21,9 +21,9 @@
     "static/media/shutterbug.8ed68048.jpg": "/react-gitpage/static/media/shutterbug.8ed68048.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.22ecba61.js",
-    "static/js/2.669b5c10.chunk.js",
-    "static/css/main.8b6845e0.chunk.css",
-    "static/js/main.34fa3c7c.chunk.js"
+    "static/js/runtime-main.d9eb2454.js",
+    "static/js/2.493aeece.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.3c82fbaf.chunk.js"
   ]
 }
